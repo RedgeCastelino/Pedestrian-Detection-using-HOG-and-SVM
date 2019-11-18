@@ -7,7 +7,7 @@
 * `config.py` -- consisits of all the configuration variables. - Must be modified First
 
 ## Instructions : 
-amend the configuration variables in congig.py 
+amend the configuration variables in config.py 
 run extract-features.py
 test-classifier.py
 
